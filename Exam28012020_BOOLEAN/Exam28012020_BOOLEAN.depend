@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580233725 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\exam28012020_boolean\main.c
+	"formula.h"
+
+1580242909 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\exam28012020_boolean\formula.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580240125 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\exam28012020_boolean\formula.c
+	"formula.h"
+

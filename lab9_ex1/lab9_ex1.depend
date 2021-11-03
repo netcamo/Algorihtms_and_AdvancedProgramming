@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575333642 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex1\main.c
+	"H1.h"
+
+1575333562 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex1\h1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575333548 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex1\functions.c
+	"H1.h"
+

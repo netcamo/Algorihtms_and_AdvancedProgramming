@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1576704333 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\bst lib\data.c
+	"data.h"
+
+1576704337 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\bst lib\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576704340 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\bst lib\tree.c
+	"treePrivate.h"
+
+1576704343 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\bst lib\treeprivate.h
+	"treePublic.h"
+
+1576704346 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\bst lib\treepublic.h
+	"data.h"
+
+1576706157 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+	"st.h"
+
+1576703873 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\item.h
+
+1576703883 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\st.h
+
+1576706000 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+
+1576706345 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab11\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+	"st.h"
+

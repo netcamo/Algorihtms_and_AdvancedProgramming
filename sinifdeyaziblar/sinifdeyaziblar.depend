@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575926346 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\sinifdeyaziblar\main.c
+	"list.h"
+	"Merge.h"
+	"balance.h"
+
+1575912977 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\sinifdeyaziblar\list.c
+
+1575923260 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\sinifdeyaziblar\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575923225 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\sinifdeyaziblar\merge.h
+
+1575926420 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\sinifdeyaziblar\balance.h
+	"Merge.h"
+	<math.h>
+

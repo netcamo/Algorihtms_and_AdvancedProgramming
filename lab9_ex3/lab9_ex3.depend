@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1575353771 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\client.c
+	"treePublic.h"
+
+1575352578 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\treepublic.h
+	"dataInt.h"
+
+1568645686 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1568645686 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\data.c
+	"data.h"
+
+1575339334 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\dataint.c
+	"dataInt.h"
+
+1568645686 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\datastr.c
+	"data.h"
+
+1575339057 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\main.c
+
+1568645686 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\tree.c
+	"treePrivate.h"
+
+1575352677 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\treeprivate.h
+	"treePublic.h"
+
+1568645686 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\dataint.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575353783 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex3\treeaddition.c
+	"treePrivate.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1576866530 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\vertex_coloring\main.c
+	"some_util.h"
+
+1576865814 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\vertex_coloring\some_util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576871038 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\vertex_coloring\graph_loadprint_func.c
+	"some_util.h"
+

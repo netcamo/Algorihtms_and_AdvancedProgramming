@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579084967 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab14_ex8\main.c
+	"recurse.h"
+
+1579082844 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab14_ex8\recurse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

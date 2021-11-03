@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571673881 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab3_ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

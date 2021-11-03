@@ -1,0 +1,9 @@
+National_Museum_of_Natural_History 5
+10.00-11.30 1780
+11.30-13.00 1780
+13.00-14.30 1830
+14.30-16.00 1600
+16.00-17.30 1400
+Smithsonian_National_Air_and_Space_Museum 2
+10.00-11.00 650
+11.00-12.00 680

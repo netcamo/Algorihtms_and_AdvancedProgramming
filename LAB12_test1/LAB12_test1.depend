@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1579021101 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\client.c
+	<stdio.h>
+	"queuePublic.h"
+	"graph.h"
+	"new_functions.h"
+
+1577880272 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\queuepublic.h
+	<stdio.h>
+
+1577880253 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\graph.h
+	"limits.h"
+	"util.h"
+
+1577880277 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577903215 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\graph.c
+	"graph.h"
+
+1577880267 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1577880270 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1577880274 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\util.c
+	"util.h"
+
+1579025273 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\new_functions.c
+	"new_functions.h"
+
+1579025273 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab12_test1\new_functions.h
+	"graph.h"
+	"queuePublic.h"
+

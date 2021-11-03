@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574776519 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab8_ex2\create_and_error.c
+	"h1.h"
+
+1574777554 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab8_ex2\h1.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1574777853 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab8_ex2\main.c
+	"h1.h"
+
+1574776450 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab8_ex2\print_array.c
+

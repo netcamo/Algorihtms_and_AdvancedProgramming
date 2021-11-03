@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1579369535 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\museums_exam\main.c
+	"visitors_bst.h"
+
+1579370917 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\museums_exam\museums.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579359084 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\museums_exam\visitors_bst.h
+	"museums.h"
+

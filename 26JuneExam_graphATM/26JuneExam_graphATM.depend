@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579449042 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\26juneexam_graphatm\main.c
+	"graph.h"
+
+1579450133 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\26juneexam_graphatm\graph.h
+	<stdio.h>
+	<stdlib.h>
+	<String.h>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1576013018 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\client.c
+	"treePublic.h"
+
+1575993184 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\treepublic.h
+	"data_struct.h"
+
+1575927511 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575974128 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\data.c
+	"data.h"
+
+1575992143 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\data_struct.c
+	"data_struct.h"
+
+1576012486 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\tree.c
+	"treePrivate.h"
+
+1575991580 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\treeprivate.h
+	"treePublic.h"
+
+1575989995 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab10_ex1\data_struct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

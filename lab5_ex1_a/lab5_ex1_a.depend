@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572986871 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab5_ex1_a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

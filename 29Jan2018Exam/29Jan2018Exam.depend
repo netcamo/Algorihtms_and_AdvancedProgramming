@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580049950 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\29jan2018exam\main.c
+	"temp_work.h"
+
+1580051935 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\29jan2018exam\temp_work.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

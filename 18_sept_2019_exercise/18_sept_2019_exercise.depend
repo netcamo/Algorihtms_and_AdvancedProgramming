@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579706261 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\18_sept_2019_exercise\main.c
+	"vert.h"
+
+1579706457 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\18_sept_2019_exercise\vert.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

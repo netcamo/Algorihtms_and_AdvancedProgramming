@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1575335894 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab_ex2\main.c
+
+1568645687 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab_ex2\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stackPrivate.h"
+	"util.h"
+
+1568645688 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab_ex2\stackprivate.h
+	<stdio.h>
+	"stackPublic.h"
+	"util.h"
+
+1568645688 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab_ex2\stackpublic.h
+	<stdio.h>
+
+1568645688 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab_ex2\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1568645688 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab_ex2\util.c
+	"util.h"
+

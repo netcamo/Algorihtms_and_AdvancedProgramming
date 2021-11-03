@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1568645685 source:d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\client.c
+	"treePublic.h"
+
+1568645685 d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\treepublic.h
+	"data.h"
+	"item.h"
+	"st.h"
+
+1568645685 d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1568645685 d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\item.h
+
+1568645685 d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\st.h
+
+1568645685 source:d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\data.c
+	"data.h"
+
+1568645685 source:d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+
+1568645685 source:d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+	"st.h"
+
+1568645685 source:d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\tree.c
+	"treePrivate.h"
+
+1568645685 d:\new a\ders komp\italy\3cu semester\algorithms\labs and solutions quer\soluzioni\lab10\treeprivate.h
+	"treePublic.h"
+

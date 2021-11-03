@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1575337100 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\client.c
+	<stdio.h>
+	<ctype.h>
+	"stackPublic.h"
+	"item-int.h"
+
+1575337048 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\stackpublic.h
+	<stdio.h>
+
+1568645687 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\item-int.h
+	<stdio.h>
+	"util.h"
+
+1568645688 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575336559 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\main.c
+
+1575337081 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stackPrivate.h"
+	"util.h"
+
+1568645688 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\stackprivate.h
+	<stdio.h>
+	"stackPublic.h"
+	"util.h"
+
+1568645688 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\util.c
+	"util.h"
+
+1575336542 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\trying to udnerstand\item-int.c
+	"item-int.h"
+
+1575337100 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\client.c
+	<stdio.h>
+	<ctype.h>
+	"stackPublic.h"
+	"item-int.h"
+
+1575337048 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\stackpublic.h
+	<stdio.h>
+
+1568645687 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\item-int.h
+	<stdio.h>
+	"util.h"
+
+1568645688 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575336542 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\item-int.c
+	"item-int.h"
+
+1575336559 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\main.c
+
+1575337888 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stackPrivate.h"
+	"util.h"
+
+1568645688 d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\stackprivate.h
+	<stdio.h>
+	"stackPublic.h"
+	"util.h"
+
+1568645688 source:d:\new a\ders komp\italy\3cu semester\algorithms\lab menim sol\lab9_ex2\util.c
+	"util.h"
+

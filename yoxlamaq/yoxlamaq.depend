@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1576770244 source:d:\hashvelib\client.c
+	"treePublic.h"
+
+1576770026 d:\hashvelib\treepublic.h
+	"data.h"
+	"item.h"
+	"st.h"
+
+1576770755 d:\hashvelib\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576770010 d:\hashvelib\item.h
+
+1576770017 d:\hashvelib\st.h
+
+1576770002 source:d:\hashvelib\data.c
+	"data.h"
+
+1576770008 source:d:\hashvelib\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+
+1576770015 source:d:\hashvelib\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+	"st.h"
+
+1576770021 source:d:\hashvelib\tree.c
+	"treePrivate.h"
+
+1576770024 d:\hashvelib\treeprivate.h
+	"treePublic.h"
+
